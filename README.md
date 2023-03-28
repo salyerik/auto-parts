@@ -19,4 +19,4 @@
 ### Mobile Optimization
 <img src="img/page-speed.jpg" alt="img" style="height: 400px;">
 
-[link]: https://steterik.github.io/parts-auto/
+[link]: https://steterik.github.io/partsAuto
