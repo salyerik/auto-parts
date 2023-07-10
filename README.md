@@ -11,9 +11,9 @@
 	* Menu-burger
 	* Anchor
 
-[Link to page⬅️][link]
+[Link to the page⬅️][link]
 
 ### Mobile Optimization
 <img src="img/page-speed.jpg" alt="img" style="height: 400px;">
 
-[link]: https://steterik.github.io/auto-parts
+[link]: https://salyerik.github.io/auto-parts
